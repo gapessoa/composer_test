@@ -1,5 +1,8 @@
 {
     "require": {
-        "monolog/monolog": "1.0.*"
+        "monolog/monolog": "1.0.*",
+        "components/jquery": "dev-master",
+        "egeloen/ckeditor-bundle": "2.1.*@dev",
+        "twitter/bootstrap": "dev-master"
     }
 }
